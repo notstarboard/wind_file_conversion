@@ -1,5 +1,5 @@
 # wind_file_conversion
-This repository contains a number of scripts to convert wind files into other formats. The included scripts will handle the following conversions:
+This repository contains a number of scripts to convert wind data files into other formats. The included scripts will handle the following conversions:
 
 * COAMPS-TC to OWI NetCDF
 * HBL to OWI NetCDF
