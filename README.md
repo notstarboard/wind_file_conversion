@@ -18,5 +18,7 @@ The Matlab validation scripts will at a minimum requires you to specify the inpu
 
 The COAMPS-TC to OWI NetCDF converter was developed by Zach Cobell and the rest of the converters used Zach's converter as a foundation. Thanks, Zach!
 
+---
+
 To Do:
 * Enough code is shared between the different converters that they should really be combined. It's just not worth the effort for me now, especially until there's reason to anticipate them getting more use.
