@@ -14,7 +14,7 @@ All conversions are accompanied by a Matlab script to compare the input and outp
 
 Most of the Python conversion scripts can be called with something similar to: "python3 [conversion_script.py] [file you want to convert] -o [name of output file]". Refer to the code and/or run "[conversion_script.py] -h" for more details on the required syntax.
 
-The Matlab validation scripts will at a minimum requires you to specify the input and output file name. Look for comments starting with "UPDATE" for other variables you'll likely need to change.
+The Matlab validation scripts will at a minimum require you to specify the input and output file name. Look for comments starting with "UPDATE" for other variables you'll likely need to change.
 
 The COAMPS-TC to OWI NetCDF converter was developed by Zach Cobell and the rest of the converters used Zach's converter as a foundation. Thanks, Zach!
 
